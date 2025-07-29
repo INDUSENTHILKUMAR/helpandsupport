@@ -12,7 +12,7 @@
 	<artifactId>helpdesk-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>helpdesk-service</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Microservice for Help and Support</description>
 	<url/>
 	<licenses>
 		<license/>
